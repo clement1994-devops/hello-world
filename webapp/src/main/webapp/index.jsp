@@ -7,10 +7,10 @@ Welecome to ccs technologies
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>CCS Registration Form</title>
+<title>CCS  Registration Form</title>
 </head>
 <body>
-<h1>CIS  Register Form</h1>
+<h1>CIS CCS Register Form</h1>
 <body style="background-color:powderblue;">
 <form action="guru_register" method="post">
 			<table style="with: 50%">
